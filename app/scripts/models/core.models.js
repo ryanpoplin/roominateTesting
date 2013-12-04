@@ -1,0 +1,1 @@
+App.Models.TimeSlot = Backbone.Model.extend();
